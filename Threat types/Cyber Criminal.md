@@ -1,4 +1,4 @@
-[[Cybercrime]] is a type of crime involving a computer or a computer network.[1][2][3] The [[computer]] may have been used in committing the crime, or it may be the target.[4] [[Cybercrime]] may harm someone's security or finances.
+[[Cybercrime]] is a type of crime involving a computer or a computer network. The [[computer]] may have been used in committing the crime, or it may be the target. [[Cybercrime]] may harm someone's security or finances.
 
 Internationally, both state and non-[[State actors]] engage in cybercrimes, including espionage, financial theft, and other cross-border crimes. Cybercrimes crossing international borders and involving the actions of at least one nation-state are sometimes referred to as [[cyberwarfare]]. Warren Buffett describes [[cybercrime]] as the "number one problem with mankind"[7] and said that it "poses real risks to humanity".
 
@@ -9,7 +9,7 @@ Computer crime encompasses a broad range of activities, including computer fraud
 Computer fraud
 Main article: Computer fraud
 
-Computer fraud is the act of using a computer to take or alter electronic data, or to gain unlawful use of a computer or system.[15] If computer fraud involves the use of the internet, it can be considered Internet fraud. The legal definition of computer fraud varies by jurisdiction, but typically involves accessing a computer without permission or authorization.
+Computer fraud is the act of using a computer to take or alter electronic data, or to gain unlawful use of a computer or system.[15] If computer fraud involves the use of the [[internet]], it can be considered [[Internet]] fraud. The legal definition of computer fraud varies by jurisdiction, but typically involves accessing a computer without permission or authorization.
 
 Forms of computer fraud include hacking into computers to alter information, distributing malicious code such as computer worms or viruses, installing [[Malware]] or spyware to steal data, phishing, and advance-fee scams.[16]
 
@@ -30,7 +30,7 @@ Main article: Ransomware
 Cybersex trafficking
 Main article: Cybersex trafficking
 
-Cybersex trafficking is the transportation of victims and then the live streaming of coerced sexual acts or rape on webcam.[24][25][26][27] Victims are abducted, threatened, or deceived and transferred to "cybersex dens".[28][29][30] The dens can be in any location where the cybersex traffickers have a computer, tablet, or phone with an internet connection.[26] Perpetrators use social media networks, video conferences, dating pages, online chat rooms, apps, dark web sites,[31] and other platforms.[32] They use online payment systems[31][33][34] and cryptocurrencies to hide their identities.[35] Millions of reports of its occurrence are sent to authorities annually.[36] New legislation and police procedures are needed to combat this type of [[cybercrime]].[37]
+Cybersex trafficking is the transportation of victims and then the live streaming of coerced sexual acts or rape on webcam.[24][25][26][27] Victims are abducted, threatened, or deceived and transferred to "cybersex dens".[28][29][30] The dens can be in any location where the cybersex traffickers have a computer, tablet, or phone with an [[internet]] connection.[26] Perpetrators use social media networks, video conferences, dating pages, online chat rooms, apps, dark web sites,[31] and other platforms.[32] They use online payment systems[31][33][34] and cryptocurrencies to hide their identities.[35] Millions of reports of its occurrence are sent to authorities annually.[36] New legislation and police procedures are needed to combat this type of [[cybercrime]].[37]
 
 There are an estimated 6.3 million victims of cybersex trafficking, according to a recent report by the International Labour Organization and IOM.[38][39] This number includes about 1.7 million child victims. An example of cybersex trafficking is the 2018–2020 Nth room case in South Korea.[40]
 Cyberwarfare
@@ -38,9 +38,9 @@ Main article: Cyberwarfare
 
 The U.S. Department of Defense notes that cyberspace has emerged as a national-level concern through several recent events of geostrategic importance, including the attack on Estonia's infrastructure in 2007, allegedly by Russian hackers. In August 2008, Russia again allegedly conducted cyberattacks, this time in a coordinated and synchronized kinetic and non-kinetic campaign against the country of Georgia. Fearing that such attacks may become normalized in future warfare among nation-states, the military commanders intend to adapt the concept of cyberspace operations impact in the future.[41]
 Computer as a tool
-Main articles: Internet fraud, [[Spam]]ming, [[Phishing]], and Carding (fraud)
+Main articles: [[Internet]] fraud, [[Spam]]ming, [[Phishing]], and Carding (fraud)
 
-When the individual is the main target of [[cybercrime]], the computer can be considered as the tool rather than the target. These crimes generally involve less technical expertise. Human weaknesses are generally exploited. The damage dealt is largely psychological and intangible, making legal action against the variants more difficult. These are the crimes which have existed for centuries in the offline world. Scams, theft, and the like existed before the development of computers and the internet. The same criminal has simply been given a tool which increases their potential pool of victims and makes them all the harder to trace and apprehend.[42]
+When the individual is the main target of [[cybercrime]], the computer can be considered as the tool rather than the target. These crimes generally involve less technical expertise. Human weaknesses are generally exploited. The damage dealt is largely psychological and intangible, making legal action against the variants more difficult. These are the crimes which have existed for centuries in the offline world. Scams, theft, and the like existed before the development of computers and the [[internet]]. The same criminal has simply been given a tool which increases their potential pool of victims and makes them all the harder to trace and apprehend.[42]
 
 Crimes that use computer networks or devices to advance other ends include:
 
@@ -59,7 +59,7 @@ The content of websites and other electronic communications may be distasteful, 
 
 The extent to which these communications are unlawful varies greatly between countries, and even within nations. It is a sensitive area in which the courts can become involved in arbitrating between groups with strong beliefs.
 
-One area of internet pornography that has been the target of the strongest efforts at curtailment is child pornography, which is illegal in most jurisdictions in the world.
+One area of [[internet]] pornography that has been the target of the strongest efforts at curtailment is child pornography, which is illegal in most jurisdictions in the world.
 
 [[Ad-fraud]]
 See also: Ad fraud and Click fraud
@@ -72,7 +72,7 @@ Attribution fraud impersonates the activities of real users, such as clicks and 
 
 Ad fraud services are related to all online infrastructure and hosting services that might be needed to undertake identity or attribution fraud. Services can involve the creation of spam websites (fake networks of websites created to provide artificial backlinks); link building services; hosting services; creation of fake and scam pages impersonating a famous brand and used as part of an ad fraud campaign.
 Online harassment
-See also: [[Cyberbullying]], Online predator, Cyberstalking, Cyber Racism, and Internet troll
+See also: [[Cyberbullying]], Online predator, Cyberstalking, Cyber Racism, and [[Internet]] troll
 
 The examples and perspective in this section may not represent a worldwide view of the subject. You may improve this section, discuss the issue on the talk page, or create a new section, as appropriate. (March 2016) (Learn how and when to remove this template message)
 
@@ -82,10 +82,10 @@ There are instances when committing a crime using a computer can lead to an enha
 
 In the United States, over 41 states have passed laws and regulations that regard extreme online harassment as a criminal act. These acts can be punished on a federal scale, such as US Code 18 Section 2261A, which states that using computers to threaten or harass can lead to a sentence of up to 20 years, depending on the action taken.[45]
 
-Several countries outside the United States have also created laws to combat online harassment. In China, a country that supports over 20 percent of the world's internet users, the Legislative Affairs Office of the State Council passed a strict law against the bullying of young people through a bill in response to the Human Flesh Search Engine.[46][47] The United Kingdom passed the Malicious Communications Act, among other acts from 1997 to 2013, which stated that sending messages or letters electronically that the government deemed "indecent or grossly offensive" and/or language intended to cause "distress and anxiety" can lead to a prison sentence of six months and a potentially large fine.[48][49]  Australia, while not directly addressing the issue of harassment, has grouped the majority of online harassment under the Criminal Code Act of 1995. Using telecommunication to send threats or harass and cause offense was a direct violation of this act.[50]
+Several countries outside the United States have also created laws to combat online harassment. In China, a country that supports over 20 percent of the world's [[internet]] users, the Legislative Affairs Office of the State Council passed a strict law against the bullying of young people through a bill in response to the Human Flesh Search Engine.[46][47] The United Kingdom passed the Malicious Communications Act, among other acts from 1997 to 2013, which stated that sending messages or letters electronically that the government deemed "indecent or grossly offensive" and/or language intended to cause "distress and anxiety" can lead to a prison sentence of six months and a potentially large fine.[48][49]  Australia, while not directly addressing the issue of harassment, has grouped the majority of online harassment under the Criminal Code Act of 1995. Using telecommunication to send threats or harass and cause offense was a direct violation of this act.[50]
 
 Although freedom of speech is protected by law in most democratic societies (in the US this is done by the First Amendment), it does not include all types of speech. In fact, spoken or written "true threat" speech or text is criminalized because of "intent to harm or intimidate". That also applies to online or network-related threats in written text or speech.
 
-Cyberbullying has increased drastically with the growing popularity of online social networking. As of January 2020, 44 percent of adult internet users in the United States have "personally experienced online harassment".[51] Children who experience online harassment deal with negative and sometimes life-threatening side effects. In 2021, reports displayed 41 percent of children developing social anxiety, 37 percent of children developing depression, and 26 percent of children having suicidal thoughts.[52]
+Cyberbullying has increased drastically with the growing popularity of online social networking. As of January 2020, 44 percent of adult [[internet]] users in the United States have "personally experienced online harassment".[51] Children who experience online harassment deal with negative and sometimes life-threatening side effects. In 2021, reports displayed 41 percent of children developing social anxiety, 37 percent of children developing depression, and 26 percent of children having suicidal thoughts.[52]
 
 The United Arab Emirates was named in a spying scandal where the Gulf nation along with other repressive governments purchased NSO Group's mobile spyware Pegasus for mass surveillance. Prominent activists and journalists were targeted as part of the campaign, including Ahmed Mansoor, Princess Latifa, Princess Haya, and more. Ghada Oueiss was one of the many high-profile female journalists and activists who became the target of online harassment. Oueiss filed a lawsuit against UAE ruler Mohamed bin Zayed Al Nahyan along with other defendants, accusing them of sharing her photos online. The defendants, including the UAE ruler, filed motions to dismiss the case of the hack-and-leak attack.[53] 

@@ -1,4 +1,4 @@
-The dark web is the World Wide Web content that exists on [[darknet]]s: overlay networks that use the Internet but require specific software, configurations, or authorization to access. 
+The dark web is the World Wide Web content that exists on [[darknet]]s: overlay networks that use the [[Internet]] but require specific software, configurations, or authorization to access. 
 
 Through the dark web, private computer networks can communicate and conduct business anonymously without divulging identifying information, such as a user's location. 
 

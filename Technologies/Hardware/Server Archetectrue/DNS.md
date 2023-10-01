@@ -2,7 +2,7 @@ A DNS server, or “Domain Name Service” server, is used to [translate domain 
 
 This server is what your browser references when you type in a domain name and press Enter. The idea is that users don’t have to memorize IP addresses and organizations can have a fitting name.
 
-Typically, Internet Service Providers (ISPs) provide DNS servers to their users. However, there are many organizations that provide this lookup service for free, as well (such as the popular Google DNS server with IP 8.8.8.8).
+Typically, [[Internet]] Service Providers (ISPs) provide DNS servers to their users. However, there are many organizations that provide this lookup service for free, as well (such as the popular Google DNS server with IP 8.8.8.8).
 
 Some users who are more concerned about their privacy on the web often use these alternate DNS servers.
 
