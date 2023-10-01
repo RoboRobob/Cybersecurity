@@ -1,5 +1,8 @@
 [IETF Website](https://www.ietf.org/)
-The [[Internet]] Engineering Task Force (IETF), founded in 1986, is the premiere standards development organization (SDO) for the [[Internet]]. The IETF makes voluntary standards that are often adopted by [[Internet]] users, network operators, and equipment vendors, and it thus helps shape the trajectory of the development of the [[Internet]]. But in no way does the IETF control, or even patrol, the [[Internet]].
+
+The [[Internet]] Engineering Task Force (IETF)
+
+Founded in 1986, is the premiere standards development organization (SDO) for the [[Internet]]. The IETF makes voluntary standards that are often adopted by [[Internet]] users, network operators, and equipment vendors, and it thus helps shape the trajectory of the development of the [[Internet]]. But in no way does the IETF control, or even patrol, the [[Internet]].
 
 "the overall goal of the IETF is to make the [[Internet]] work better."
 "Its mission is to produce high quality, relevant technical and engineering documents that influence the way people design, use, and manage the [[Internet]] in such a way as to make the [[Internet]] work better. These documents include protocol standards, best current practices, and informational documents of various kinds."

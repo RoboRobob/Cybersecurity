@@ -1,6 +1,6 @@
 SOC type 1 and SOC type 2
 
-The American Institute of Certified Public Accountants® (AICPA) auditing standards board developed this standard. The SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels such as: 
+The American Institute of Certified Public Accountants (AICPA) auditing standards board developed this standard. The SOC1 and SOC2 are a series of reports that focus on an organization's user access policies at different organizational levels such as: 
 - Associate
 - Supervisor
 - Manager
