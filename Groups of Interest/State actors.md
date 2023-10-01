@@ -1,0 +1,1 @@
+A hacker sponsored by a government, often overlaps with Advanced persistent threat ([[APTs]])

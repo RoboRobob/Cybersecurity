@@ -1,0 +1,1 @@
+Analysts give guidance to businesses, government entities and individuals on financial and business decisions. An analyst collects data on business performance and develops statistical reports. They identify areas of improvement and create a recommended plan to streamline processes.

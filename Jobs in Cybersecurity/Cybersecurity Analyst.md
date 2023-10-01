@@ -1,0 +1,1 @@
+A Cyber Security Analyst is responsible for [Monitoring](https://infosec-jobs.com/insights/monitoring-explained/) computer networks for security breaches, investigating security incidents, and installing security measures to protect computer systems and networks. They also analyze security risks and develop strategies to mitigate them.

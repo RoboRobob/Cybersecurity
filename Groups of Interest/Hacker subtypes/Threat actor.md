@@ -1,0 +1,5 @@
+A threat actor, bad actor or malicious actor is either a person or a group of people that take part in an action that is intended to cause harm to the cyber realm including: computers, devices, systems, or networks.
+
+The term is typically used to describe individuals or groups that perform malicious acts against a person or an organization of any type or size. 
+
+Threat actors engage in cyber related offenses to [[exploit]] open [[vulnerabilities]] and disrupt operations. Threat actors have different educational backgrounds, skills, and resources. The frequency and classification of cyber attacks changes rapidly. The background of threat actors helps dictate who they target, how they attack, and what information they seek. There are a number of threat actors including: [[Cyber Criminal]]s, [[nation-state actors]], ideologues, thrill seekers/trolls, [[insider threat]], and competitors. These threat actors all have distinct motivations, techniques, targets, and uses of stolen data. See [[Advanced persistent threat]]s for a list of identified threat actors. 

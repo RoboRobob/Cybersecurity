@@ -1,0 +1,1 @@
+A Cyber Security Specialist is responsible for designing, implementing, and maintaining security solutions to protect computer systems and networks. They work closely with other IT professionals to ensure that security measures are integrated into every aspect of an organization's technology infrastructure.

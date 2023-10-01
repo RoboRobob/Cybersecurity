@@ -1,0 +1,2 @@
+### **The Federal Risk and Authorization Management Program**
+FedRAMP is a U.S. federal government program that standardizes security assessment, authorization, monitoring, and handling of cloud services and product offerings. Its purpose is to provide consistency across the government sector and third-party cloud providers.

@@ -1,0 +1,1 @@
+Also referred to as an Ethical hacker, They follow a code of ethics and adhere to the law to conduct organizational risk evaluations. They are motivated to safeguard people and organizations from malicious threat actors.    

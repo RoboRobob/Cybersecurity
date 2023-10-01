@@ -1,0 +1,1 @@
+An information security operations center (ISOC or SOC) is a facility where enterprise information systems (web sites, applications, [[Database]]s, [[Data Center]] and [[Server]], [[network]]s, [[Desktop]] and other endpoints) are monitored, assessed, and defended. 

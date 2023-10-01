@@ -1,0 +1,13 @@
+The File Transfer Protocol (FTP) is a standard communication protocol used for the transfer of computer files from a server to a client on a computer network. 
+
+FTP is built on a client–server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. For secure transmission that protects the username and password, and encrypts the content, FTP is often secured with SSL/TLS ([[FTPS]]) or replaced with SSH File Transfer Protocol ([[SFTP]]).
+
+The first FTP client applications were command-line programs developed before operating systems had graphical user interfaces, and are still shipped with most Windows, Unix, and Linux operating systems. Many dedicated FTP clients and automation utilities have since been developed for desktops, servers, mobile devices, and hardware, and FTP has been incorporated into productivity applications such as HTML editors and file managers.
+
+A FTP client used to be commonly integrated in web browsers, where file servers are browsed with the URI prefix "ftp://". Throughout 2021, the two major web browser vendors removed this ability. Support for the FTP protocol was first disabled in Google Chrome 88 in January 2021, followed by Firefox 88.0 in April 2021. In July 2021, Firefox 90 **dropped FTP entirely**, and Google followed suit in October 2021, removing FTP entirely in Google Chrome 95.
+
+Login
+	FTP login uses normal username and password scheme for granting access. The username is sent to the server using the USER command, and the password is sent using the PASS command. This sequence is unencrypted "on the wire", so **may be vulnerable to a network sniffing attack**. If the information provided by the client is accepted by the server, the server will send a greeting to the client and the session will commence. If the server supports it, users may log in without providing login credentials, but the same server may authorize only limited access for such sessions.
+
+Anonymous FTP
+	A host that provides an FTP service may provide anonymous FTP access.[2] Users typically log into the service with an 'anonymous' (lower-case and case-sensitive in some FTP servers) account when prompted for user name. Although users are commonly asked to send their email address instead of a password,[3] no verification is actually performed on the supplied data.[22] Many FTP hosts whose purpose is to provide software updates will allow anonymous logins.[3] 

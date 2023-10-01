@@ -1,0 +1,5 @@
+Information security analysts plan and carry out security measures to protect an organization’s computer networks and systems.
+
+The main part of their job is to protect the company from cybercrimes. The amount of online crime is rising with phishing, [[Malware]], and trojan horse attacks becoming commonplace. For companies working in sensitive industries, protecting their assets and blueprints can be a serious matter, with criminals charging multi-million dollar ransoms. Prevention is the best step, and the day-to-day of an information [[security analyst]] will look a little something like this:
+
+Staying in the loop. [[Cybercriminal]]s and the technologies they use are constantly changing, so a good information [[security analyst]] needs to change with them. A large part of their job will involve researching the latest trends in hacking and security, communicating security needs to the organization, and even conducting research into the most effective technology for protecting their company’s data.

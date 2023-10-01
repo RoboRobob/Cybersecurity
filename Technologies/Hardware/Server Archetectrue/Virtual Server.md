@@ -1,0 +1,3 @@
+A virtual server is a partitioned part of a [[Physical Server]]. Most “servers” online are virtual servers. They often are given a dedicated amount of [[Physical Server]] resources to utilize (such as [[RAM]], [[CPU]], [[Storage Space]]).
+
+Users can rent virtual servers for a fraction of the cost of a [[Physical Server]]. This is because hosting companies typically own or rent the [[Physical Server]] for a wholesale price, then profit off of selling parts of the physical machine at a time to users with smaller audiences.
