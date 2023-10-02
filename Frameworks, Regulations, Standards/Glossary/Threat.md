@@ -1,0 +1,3 @@
+A **threat** is any circumstance or event that can negatively impact assets. As an entry-level [[Security Analyst]], your job is to help defend the organization’s assets from inside and outside threats. Therefore, understanding common types of threats is important to an [[Analyst]]’s daily work. As a reminder, common threats include:
+	- **[[Insider threats]]:** Staff members or vendors abuse their authorized access to obtain data that may harm an organization.
+	- **Advanced persistent threats ([[APT]]s):** A threat actor maintains unauthorized access to a system for an extended period of time.

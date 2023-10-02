@@ -1,5 +1,6 @@
 1. **Security and risk management** focuses on defining security goals and objectives,
-risk mitigation, compliance, business continuity, and the law.
+risk mitigation, compliance, business continuity and the law.
+
 Example Security and Risk Managament Attack
 	 **Social engineering attack**
 	**Social engineering** is a manipulation technique that exploits human error to gain private information, access, or valuables. Some forms of social engineering attacks that you will continue to learn about throughout the program are:
@@ -41,10 +42,10 @@ Password attack
 Cryptographic attack:
 		**[[Cryptographic attack]]**
 		A **cryptographic attack** affects secure forms of communication between a sender and intended recipient. Some forms of cryptographic attacks are: 
-		- Birthday
-		- Collision
-		- Downgrade
-		Cryptographic attacks fall under the communication and network security domain.
+		- [[Birthday]]
+		- [[Collision]]
+		- [[Downgrade]]
+		[[Cryptographic attack]]s fall under the communication and network security domain.
 
 5. **Identity and access management**
 focuses on keeping data secure, by
