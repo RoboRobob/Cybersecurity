@@ -8,11 +8,9 @@ Possible jobs after certificate completion:
 
 [[Analyst]], [[Information security analyst]].
 
-## [CompTIA Security+]((https://www.comptia.org/certifications/security)
+[CompTIA [[Security+]]]((https://www.comptia.org/certifications/security)
 
-In addition to gaining skills that will help you succeed as a cybersecurity professional, the Google Cybersecurity Certificate helps prepare you for the [CompTIA Security+ exam](https://www.comptia.org/certifications/security)
-
-, the industry leading certification for cybersecurity roles. You’ll earn a dual credential when you complete both, which can be shared with potential employers. After completing all eight courses in the Google Cybersecurity Certificate, you will unlock a 30% discount for the CompTIA Security+ exam and additional practice materials
+In addition to gaining skills that will help you succeed as a cybersecurity professional, the Google Cybersecurity Certificate helps prepare you for the [[CompTIA]] [[Security+]] exam [Link](https://www.comptia.org/certifications/security), the industry leading certification for cybersecurity roles. You’ll earn a dual credential when you complete both, which can be shared with potential employers. After completing all eight courses in the Google Cybersecurity Certificate, you will unlock a 30% discount for the CompTIA [[Security+]] exam and additional practice materials
 
 ## Glossary for Course 1
 Adversarial artificial intelligence (AI): A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently
@@ -42,7 +40,7 @@ Malware: Software designed to harm devices or networks
 National Institute of Standards and Technology (NIST) Cyber Security Framework (CSF): A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
 Network protocol analyzer (packet sniffer): A tool designed to capture and analyze data traffic within a network
 Network security: The practice of keeping an organization's network infrastructure secure from unauthorized access
-Open Web Application Security Project (OWASP): A non-profit organization focused on improving software security
+Open Web Application Security Project ([[OWASP]]): A non-profit organization focused on improving software security
 Order of volatility: A sequence outlining the order of data that must be preserved from first to last
 Password attack: An attempt to access password secured devices, systems, networks, or data
 Personally identifiable information (PII): Any information used to infer an individual’s identity

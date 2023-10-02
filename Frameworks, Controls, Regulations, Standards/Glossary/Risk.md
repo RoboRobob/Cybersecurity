@@ -20,4 +20,4 @@ Some common strategies used to manage risks include:
 
 Additionally, organizations implement risk management processes based on widely accepted frameworks to help protect digital and physical assets from various threats, risks, and vulnerabilities. 
 
-Examples of [[security framework]]s commonly used in the cybersecurity industry include the National Institute of Standards and Technology Risk Management Framework ([[NIST RMF]]) and Health Information Trust Alliance ([[HITRUST]]).
+Examples of [[Security framework]]s commonly used in the cybersecurity industry include the National Institute of Standards and Technology Risk Management Framework ([[NIST RMF]]) and Health Information Trust Alliance ([[HITRUST]]).

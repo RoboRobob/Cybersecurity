@@ -6,4 +6,4 @@ Organizations that store patient data have a legal obligation to inform patients
 
 PHI relates to the past, present, or future physical or mental health or condition of an individual, whether it’s a plan of care or payments for care. 
 
-Along with understanding HIPAA as a law, security professionals also need to be familiar with the Health Information Trust Alliance ([[HITRUST]]), which is a [[security framework]] and assurance program that helps institutions meet HIPAA compliance.
+Along with understanding HIPAA as a law, security professionals also need to be familiar with the Health Information Trust Alliance ([[HITRUST]]), which is a [[Security framework]] and assurance program that helps institutions meet HIPAA compliance.

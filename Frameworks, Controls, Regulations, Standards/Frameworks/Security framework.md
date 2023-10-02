@@ -4,4 +4,4 @@ Guidelines used for building plans to help mitigate risks and threats to data an
 - Implementing strong security processes
 - Monitoring and communicating results
 
-Examples of frameworks include the [[NIST]] Cybersecurity Framework (CSF) and the [[NIST]] Risk Management Framework (RMF).
+Examples of frameworks include the [[NIST]] Cybersecurity Framework ([[NIST CSF]]) and the [[NIST]] Risk Management Framework ([[RMF]]).
