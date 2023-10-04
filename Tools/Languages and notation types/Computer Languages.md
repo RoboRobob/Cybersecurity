@@ -4,11 +4,9 @@ Logical
 [[C]]
 [[C++]]
 
-Display Languages
-[[Markdown]]
-
 Markup Languages
 [[HTML]]
+[[Markdown]]
 [[XML]]
 [[YAML]]
 [[JSON]]
