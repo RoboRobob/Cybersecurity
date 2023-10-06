@@ -1,2 +1,4 @@
 [Official website](https://www.pcisecuritystandards.org/about_us/)
-developed by the [[PCI SSC]] 
+Payment Card Industry Security Standards Council. 
+
+Developed the [[PCI DSS]] [[Security framework]]

@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "616572bbd52682eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfe8cb63acb0d84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e8ee835380718f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Network monitoring/Chronicle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1a85c0db5fc923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coursera Google Cert/Coursera google cybersecurity course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d7ebbc6e86830ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6110fc21927b20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f05bfe9e1dd357",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "831e6c156714e83d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "glossa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4d69d48a99ca77e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9eb9c32e1f6553d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2eb9011ab6d995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11471c42cf1764e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coursera Google Cert/Coursera google cybersecurity course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9f12b1c2bb2b523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coursera Google Cert/Coursera google cybersecurity course.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "277234abd43b7c75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6e9192abe725cfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coursera Google Cert/Coursera google cybersecurity course.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f1a85c0db5fc923",
+  "lastOpenFiles": [
+    "Tools/Automation/SOAR.md",
+    "Tools/Untitled.md",
+    "Tools/Automation",
+    "Techniques/Playbooks.md",
+    "Techniques/Attacks",
+    "Tools/Network monitoring/Chronicle.md",
+    "Groups of Interest/PCI SSC.md",
+    "Groups of Interest/end-user.md",
+    "Groups of Interest/Organizations/OWASP.md",
+    "Tools/Suricata.md",
+    "Groups of Interest/Organizations/OISF.md",
+    "Tools/Network monitoring/SPLUNK.md",
+    "Tools/John the ripper.md",
+    "Tools/hashcat.md",
+    "Tools/Network monitoring",
+    "Technologies/SIEM.md",
+    "Coursera Google Cert/Security audits.md",
+    "Coursera Google Cert/Threat actor types.md",
+    "Places of Interest/Internet.md",
+    "README.md",
+    "Frameworks, Controls, Regulations, Standards/Glossary/Vulnerability.md",
+    "PetitPotam.md"
+  ]
+}
