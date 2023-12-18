@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1e8ee835380718f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Network monitoring/Chronicle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f1a85c0db5fc923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera Google Cert/Coursera google cybersecurity course.md",
+                "file": "Tools/Version Control/git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glossa",
+                "query": "mark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9eb9c32e1f6553d6",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursera Google Cert/Coursera google cybersecurity course.md",
+                "file": "Tools/Version Control/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursera Google Cert/Coursera google cybersecurity course.md",
+                "file": "Tools/Version Control/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursera Google Cert/Coursera google cybersecurity course.md"
+                "file": "Tools/Version Control/git.md"
               }
             }
           }
@@ -162,12 +149,20 @@
   },
   "active": "8f1a85c0db5fc923",
   "lastOpenFiles": [
+    "Tools/Network monitoring/Chronicle.md",
+    "Tools/Version Control/git.md",
+    "Tools/Languages and notation types/Computer Languages.md",
+    "Tools/Languages and notation types/Markdown.md",
+    "Tools/Version Control",
+    "Speakers.md",
+    "Threat types/Malware.md",
+    "Threat types/Malware Types",
+    "README.md",
+    "Coursera Google Cert/Coursera google cybersecurity course.md",
     "Tools/Automation/SOAR.md",
-    "Tools/Untitled.md",
     "Tools/Automation",
     "Techniques/Playbooks.md",
     "Techniques/Attacks",
-    "Tools/Network monitoring/Chronicle.md",
     "Groups of Interest/PCI SSC.md",
     "Groups of Interest/end-user.md",
     "Groups of Interest/Organizations/OWASP.md",
@@ -181,7 +176,6 @@
     "Coursera Google Cert/Security audits.md",
     "Coursera Google Cert/Threat actor types.md",
     "Places of Interest/Internet.md",
-    "README.md",
     "Frameworks, Controls, Regulations, Standards/Glossary/Vulnerability.md",
     "PetitPotam.md"
   ]
